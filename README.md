@@ -1,7 +1,7 @@
 # BCCWJ-WLSP
 
 ## Description
-Annotation of `Word List by Semantic Principles (WLSP)' and auxiliary verb labels on `Balanced Corpus of Contemporary Written Japanese'
+Annotation of 'Word List by Semantic Principles (WLSP)' and auxiliary verb labels on the 'Balanced Corpus of Contemporary Written Japanese'
 
 ## Features
 The 1st line is header.
