@@ -29,6 +29,10 @@ The 1st line is header.
 - Masayuki Asahara (National Institute for Japanese Language and Linguistics, Japan)
 - Makoto Yamazaki (National Institute for Japanese Language and Linguistics, Japan)
 
+## References
+- 加藤 祥・浅原 正幸・山崎 誠 (2019) 「分類語彙表番号を付与した『現代日本語書き言葉均衡コーパス』の書籍・新聞・雑誌データ」 『日本語の研究』 vol. 15, No. 2, pp. 134-141.
+- 加藤 祥・浅原 正幸・山崎 誠 (2019) 「『現代日本語書き言葉均衡コーパス』新聞・書籍・雑誌データの助動詞に対する用法情報付与」『日本語学会2019年度春季大会』, pp. 169-174.
+
 ## License
 CC BY-NC-SA 3.0 https://creativecommons.org/licenses/by-nc-sa/3.0/deed.ja
 
