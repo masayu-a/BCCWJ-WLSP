@@ -1,5 +1,7 @@
 # BCCWJ-WLSP
 
+2023/10/05 公開 [BCCWJ-WLSP-AUX-OT](https://github.com/masayu-a/BCCWJ-WLSP-AUX-OT) をご利用ください。
+
 ## Description
 Annotation of 'Word List by Semantic Principles (WLSP)' and auxiliary verb labels on the 'Balanced Corpus of Contemporary Written Japanese'
 
